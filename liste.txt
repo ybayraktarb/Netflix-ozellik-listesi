@@ -1,10 +1,5 @@
 1-Yüksek Çözünürlükte Yayın
 2-Özel İçerik Öneri Algoritması
-<<<<<<< HEAD
-3-Çoklu Cihaz Desteği
-4-orjinal içerik üretimi
-=======
 3-Kullanıcı Dostu Arayüz
-4-Çoklu Cihaz Desteği
-5-orjinal içerik üretimi
->>>>>>> 303ca0c0d4f8d4a457dfb64c9c60f1857a2eb03d
+4-orjinal içerik üretimi
+
