@@ -2,3 +2,4 @@
 2-Özel İçerik Öneri Algoritması
 3-Yüksek Çözünürlükte Yayın
 4-Çoklu Cihaz Desteği
+5-orjinal içerik üretimi
