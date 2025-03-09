@@ -6,6 +6,8 @@
 -- git push yapıldığında hata ile karşılaşıldı ve hata çözüldü
 
 <img width="665" alt="hata" src="https://github.com/user-attachments/assets/082dd4c7-c307-4eb9-b2c0-0299a8459e05" />
+<img width="957" alt="hata git" src="https://github.com/user-attachments/assets/0d3e4e46-3d7d-4bdd-b087-c325b3263653" />
+
 
 git config pull.rebase false #merge git pull komutu
 
