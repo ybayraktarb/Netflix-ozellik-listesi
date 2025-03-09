@@ -1,0 +1,4 @@
+1-Kullanıcı Dostu Arayüz
+2-Özel İçerik Öneri Algoritması
+3-Yüksek Çözünürlükte Yayın
+4-Çoklu Cihaz Desteği
