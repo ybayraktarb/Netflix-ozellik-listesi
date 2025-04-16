@@ -2,4 +2,4 @@
 2-Özel İçerik Öneri Algoritması
 3-Kullanıcı Dostu Arayüz
 4-orjinal içerik üretimi
-
+git baslangicc
