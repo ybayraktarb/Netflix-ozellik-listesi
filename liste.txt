@@ -4,3 +4,4 @@
 4-orjinal içerik üretimi
 git baslangicc
 git ozellikk
+gitt ozeliikk
