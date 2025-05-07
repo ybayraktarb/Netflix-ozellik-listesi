@@ -1,6 +1,5 @@
 # Netflix-ozellik-listesi
 
-
 -- Uzak repoda dosya oluşturulup 4 özellik listelendi.Git Clone ile yerele çekildi.Yerel repoda yeni özellik eklenip uzak repoya yeni özellik gönderildi.
 -- uzak repoda 3. Özellikle 1. Özelliği yeri değiştirildi.yerel repoda 3. Özellik silindi ve liste numaraları güncellendi
 -- git push yapıldığında hata ile karşılaşıldı ve hata çözüldü
